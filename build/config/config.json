@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC5D1eC3c3FC3c453A9C17adB564775E19082fD7d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xC5D1eC3c3FC3c453A9C17adB564775E19082fD7d",
+  "NETWORK": {
+    "NAME": "ETH",
+    "SYMBOL": "eth",
+    "ID": 4
+  },
+  "NFT_NAME": "BK Homies NFT",
+  "SYMBOL": "BKHNFT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bk-homies-demo-nft",
+  "SHOW_BACKGROUND": true
+}
